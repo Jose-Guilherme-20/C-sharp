@@ -1,0 +1,15 @@
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\ENUM\bin\Debug\net7.0\ENUM.exe
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\ENUM\bin\Debug\net7.0\ENUM.deps.json
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\ENUM\bin\Debug\net7.0\ENUM.runtimeconfig.json
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\ENUM\bin\Debug\net7.0\ENUM.dll
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\ENUM\bin\Debug\net7.0\ENUM.pdb
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\ENUM\obj\Debug\net7.0\ENUM.csproj.AssemblyReference.cache
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\ENUM\obj\Debug\net7.0\ENUM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\ENUM\obj\Debug\net7.0\ENUM.AssemblyInfoInputs.cache
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\ENUM\obj\Debug\net7.0\ENUM.AssemblyInfo.cs
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\ENUM\obj\Debug\net7.0\ENUM.csproj.CoreCompileInputs.cache
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\ENUM\obj\Debug\net7.0\ENUM.dll
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\ENUM\obj\Debug\net7.0\refint\ENUM.dll
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\ENUM\obj\Debug\net7.0\ENUM.pdb
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\ENUM\obj\Debug\net7.0\ENUM.genruntimeconfig.cache
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\ENUM\obj\Debug\net7.0\ref\ENUM.dll

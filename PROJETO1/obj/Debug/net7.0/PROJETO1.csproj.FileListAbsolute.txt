@@ -1,0 +1,15 @@
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\PROJETO1\bin\Debug\net7.0\PROJETO1.exe
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\PROJETO1\bin\Debug\net7.0\PROJETO1.deps.json
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\PROJETO1\bin\Debug\net7.0\PROJETO1.runtimeconfig.json
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\PROJETO1\bin\Debug\net7.0\PROJETO1.dll
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\PROJETO1\bin\Debug\net7.0\PROJETO1.pdb
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\PROJETO1\obj\Debug\net7.0\PROJETO1.csproj.AssemblyReference.cache
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\PROJETO1\obj\Debug\net7.0\PROJETO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\PROJETO1\obj\Debug\net7.0\PROJETO1.AssemblyInfoInputs.cache
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\PROJETO1\obj\Debug\net7.0\PROJETO1.AssemblyInfo.cs
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\PROJETO1\obj\Debug\net7.0\PROJETO1.csproj.CoreCompileInputs.cache
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\PROJETO1\obj\Debug\net7.0\PROJETO1.dll
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\PROJETO1\obj\Debug\net7.0\refint\PROJETO1.dll
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\PROJETO1\obj\Debug\net7.0\PROJETO1.pdb
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\PROJETO1\obj\Debug\net7.0\PROJETO1.genruntimeconfig.cache
+C:\Users\jgsco\OneDrive\Área de Trabalho\c#\PROJETO1\obj\Debug\net7.0\ref\PROJETO1.dll
